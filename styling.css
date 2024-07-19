@@ -1,0 +1,21 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    min-height:100vh;
+    background: #958ed4;
+    background: linear-gradient(#3320df 0%);
+}
+
+.info{
+    width: 420px;
+    height: 420px;
+    background: rgb(231, 234, 240);
+}
+.info h1{
+     text-align: center;
+
+}
+   
+
